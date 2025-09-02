@@ -5,6 +5,7 @@ ColorPicker
 
 # Get-Color
 Simple colorpicker made using Windows Forms in PowerShell. Select pixel on screen and get HEX + RGB color value.
+Just native Windows PowerShell, no install or portable executable.
 
 ## 📦 Installation
 ```powershell
