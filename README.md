@@ -20,6 +20,9 @@ Install-Module -Name ColorPicker
 ```powershell
 Get-Color
 ```
+![record](https://github.com/user-attachments/assets/17c26242-ef9c-49c6-bcb2-2dcf3b40af3d)
+
+
 ---
 
 ## 💻 Cmdlets
