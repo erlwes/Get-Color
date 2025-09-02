@@ -20,46 +20,16 @@ Install-Module -Name xxx
 ```powershell
 Get-Color
 ```
-
-
-### Sub2
-
-```powershell
-Get-Service
-```
----
-
-## 📌 Features
- - 1
- - 2
- - 3
-
 ---
 
 ## 💻 Cmdlets
 
-### `GET-STUFF`
+### `Get-Color`
 
-Description of cmdlet
-
-#### Parameters
-
-| Name             | Type     | Required | Description                                                       |
-|------------------|----------|----------|-------------------------------------------------------------------|
-| `Param1`         | `String` | No       | Description of parameter                                          |
-| `Param2`         | `Switch` | No       | Description of parameter                                          |
-
----
-
-### `SET-THINGS`
-
-Description of cmdlet
+Starts the colorpicker
 
 #### Parameters
 
-| Name             | Type     | Required | Description                                                       |
-|------------------|----------|----------|-------------------------------------------------------------------|
-| `Param1`         | `String` | No       | Description of parameter                                          |
-| `Param2`         | `Switch` | No       | Description of parameter                                          |
+None :)
 
 ---
