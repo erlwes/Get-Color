@@ -8,7 +8,7 @@ Module for looking up OUI/MAC address vendors/organistaions. Works offline once 
 
 ## 📦 Installation
 ```powershell
-Install-Module -Name xxx
+Install-Module -Name ColorPicker
 ```
 
 ---
