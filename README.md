@@ -4,7 +4,7 @@ ColorPicker
 ![PowerShell Gallery Downloads](https://img.shields.io/powershellgallery/dt/ColorPicker)
 
 # Get-Color
-Module for looking up OUI/MAC address vendors/organistaions. Works offline once OUI is downloaded once.
+Simple colorpicker made using Windows Forms in PowerShell. Select pixel on screen and get HEX + RGB color value.
 
 ## 📦 Installation
 ```powershell
@@ -20,6 +20,9 @@ Install-Module -Name ColorPicker
 ```powershell
 Get-Color
 ```
+
+Doubleclick HEX or RGB vaule to copy it to clipboard.
+
 ![record](https://github.com/user-attachments/assets/17c26242-ef9c-49c6-bcb2-2dcf3b40af3d)
 
 
