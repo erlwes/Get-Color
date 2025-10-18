@@ -23,7 +23,7 @@ Install-Module -Name ColorPicker
 Get-Color
 ```
 
-Doubleclick HEX or RGB vaule to copy it to clipboard.
+Click HEX or RGB vaule to copy it to clipboard.
 
 ![Record](https://github.com/user-attachments/assets/26eb819b-697b-4f20-b006-54fcb9a35aa8)
 
