@@ -25,8 +25,7 @@ Get-Color
 
 Doubleclick HEX or RGB vaule to copy it to clipboard.
 
-![Record](https://github.com/user-attachments/assets/72a359ee-4add-4c3f-b20a-080955dc23ff)
-
+![Record]([https://github.com/user-attachments/assets/72a359ee-4add-4c3f-b20a-080955dc23ff](https://github.com/user-attachments/assets/8ce7cd2d-9bf7-497c-b370-5fe1a1d26a9d))
 
 
 ---
