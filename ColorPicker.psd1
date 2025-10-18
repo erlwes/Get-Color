@@ -12,7 +12,7 @@
 RootModule = 'ColorPicker.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.5'
+ModuleVersion = '0.1.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -102,16 +102,18 @@ PrivateData = @{
             'Colour',
             'Eyedropper',
             'Colorpicker',
+            'Colorgrabber',
             'Colorcode',
             'Picker',
             'Sample'
+            'Grabber'
         )
 
         # A URL to the license for this module.
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/erlwes/Get-Color'
 
         # A URL to an icon representing this module.
         # IconUri = ''
